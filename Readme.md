@@ -12,7 +12,7 @@
 
 <div align="center">
 
-   <img src="newstech.gif" alt="demo-mobile" height="425">
+   <img src="/public/newstech.gif" alt="demo-mobile" height="425">
 
 </div> 
  ---
