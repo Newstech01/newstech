@@ -12,7 +12,7 @@
 
 <div align="center">
 
-   <img src="" alt="demo-mobile" height="425">
+   <img src="newstech.gif" alt="demo-mobile" height="425">
 
 </div> 
  ---
@@ -21,7 +21,7 @@
 
 A NEWSTECH surgiu em 2023 com o objetivo de apoiar pequenos empreendedores que ainda não têm presença digital, auxiliando-os a expandir seus negócios e torná-los online. Ao mesmo tempo, buscamos resolver outra dificuldade: proporcionar oportunidades para programadores iniciantes aplicarem seus conhecimentos em projetos reais e trabalharem em equipe. Estamos comprometidos em promover o crescimento mútuo e o desenvolvimento colaborativo, impulsionando tanto os empreendedores quanto os programadores em sua jornada digital.
 
-### Link do projeto: Not yet
+### Link do projeto: https://newstech1.netlify.app/
 
 ### 🛠 Tecnologias
 
@@ -50,7 +50,7 @@ $ git clone https://github.com/Newstech01/newstech
 
 ```bash
 # Clone este repositório
-$ git clone  https://github.com/deniseschirmer/devComplains-ts
+$ git clone https://github.com/Newstech01/newstech.git
 
 # Acesse a pasta do projeto no terminal/cmd
 
